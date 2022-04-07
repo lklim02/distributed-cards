@@ -7,3 +7,21 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  padding: .75em;
+  margin: 0;
+  background-color: #fff;
+}
+
+h1 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+  margin: .27em 0;
+}
+
+h2 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+  margin-top: .2em;
+}
