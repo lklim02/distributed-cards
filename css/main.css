@@ -25,3 +25,14 @@ h2 {
   color: #623b0c;
   margin-top: .2em;
 }
+
+ol {
+  display: grid;
+  list-style: none;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  border-radius: 8px;
+  padding-left: 0;
+  margin: .3em;
+  padding-top: .6em;
+}
