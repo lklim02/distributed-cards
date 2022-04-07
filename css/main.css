@@ -45,3 +45,27 @@ li {
   background: #ede3db;
   padding: 1em;
 }
+
+a {
+  border-radius: 8px;
+  background: #623b0c;
+  padding: .6em;
+  color: #fff;
+  justify-content: space-between;
+  text-decoration: none;
+  margin-top: auto;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+ul {
+  grid-column: auto;
+}
+
+p {
+  padding-top: .4rem;
+  padding-bottom: .4rem;
+}
