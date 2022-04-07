@@ -36,3 +36,12 @@ ol {
   margin: .3em;
   padding-top: .6em;
 }
+
+li {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #623b0c;
+  border-radius: 8px;
+  background: #ede3db;
+  padding: 1em;
+}
